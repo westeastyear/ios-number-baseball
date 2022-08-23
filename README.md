@@ -1,8 +1,7 @@
 # 🔢 ⚾️ 숫자야구 프로젝트 저장소
 
-> 프로젝트 기간: 2022.02.08 ~ 2022.02.11
-> 팀원: [Cathy](https://github.com/cathy171), [Taeangle](https://github.com/Taeangel)
-> 리뷰어: [Yeha](https://github.com/ye-ha)
+> 프로젝트 기간: 2022.02.08 ~ 2022.02.11<br>
+> 팀원: [Cathy](https://github.com/cathy171), [Taeangle](https://github.com/Taeangel) 리뷰어: [Yeha](https://github.com/ye-ha)
 
 ## 🔍 프로젝트 소개
 ### "🏏야구... 좋아하세요? 근데 이제 숫자를 곁들인...🔢"
